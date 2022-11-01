@@ -1,6 +1,6 @@
 ### Hi there! 👋 You are witnessing the development of a developer! I'm currently learning through Angela Yu's Web Development Course via Udemy to introduce myself to the skills I need to master in order to become an awesome developer.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 <!--
 **JuanAyala7/JuanAyala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
