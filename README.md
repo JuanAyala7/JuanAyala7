@@ -1,6 +1,4 @@
-### Hi there! 👋 You are witnessing the development of a developer! :open_mouth: I'm currently learning through Angela Yu's Web Development Course via Udemy to introduce myself to the skills I need to master in order to become an awesome developer. :sunglasses:
-
-
+You are witnessing the development of a developer! I'm currently learning through Angela Yu's Web Development Course via Udemy to introduce myself to the skills I need to master in order to become an awesome developer.
 
 <!--
 **JuanAyala7/JuanAyala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
