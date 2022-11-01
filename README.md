@@ -5,6 +5,8 @@ You are witnessing the development of a developer! I'm currently learning throug
 ## Find me on the web :earth_americas::
 - Building my connections and sharing updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanAyala7&theme=radical)
+
 <!--
 **JuanAyala7/JuanAyala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
