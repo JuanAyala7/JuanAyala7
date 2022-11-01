@@ -1,4 +1,9 @@
+# Hi, I'm Juan :wave::man:
+
 You are witnessing the development of a developer! I'm currently learning through Angela Yu's Web Development Course via Udemy to introduce myself to the skills I need to master in order to become an awesome developer.
+
+## Find me on the web :earth_americas::
+- Building my connections and sharing updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase:
 
 <!--
 **JuanAyala7/JuanAyala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
