@@ -1,6 +1,6 @@
-# Hi, I'm Juan :wave::man:
+# <h1>Hello!</h1>
 
-You are witnessing the development of a developer as I'm currently learning to become a Full Stack Developer by learning the skills that's needed to master in order to become an awesome developer.
+You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
 
 ## Find me on the web :earth_americas::
 - Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase:
