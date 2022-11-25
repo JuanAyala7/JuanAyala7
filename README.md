@@ -1,4 +1,4 @@
-# <h1>Hello!</h1>
+# Hello! 👋
 
 You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
 
