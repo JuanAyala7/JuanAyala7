@@ -1,9 +1,10 @@
 # Hello! 👋
 
 You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
+I will work on each repository to include the learning points that I obtained from them respectively.
 
 ## Find me on the web :earth_americas::
-- Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase:
+- Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase: 
 
 <!--
 **JuanAyala7/JuanAyala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
