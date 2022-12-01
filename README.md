@@ -1,6 +1,7 @@
 # Hello! 👋
 
 You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
+
 I will work on each repository to include the learning points that I obtained from them respectively.
 
 ## Find me on the web :earth_americas::
