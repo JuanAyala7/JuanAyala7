@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello there! I'm Juan!👋
 
 You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
 
