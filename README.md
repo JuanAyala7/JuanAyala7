@@ -12,30 +12,6 @@ I have 4 years of honorable military service in the U.S. Air Force as a airborne
 
 ## Tech & Tools Preference 💻
 
-Languages
-HTML5, CSS3, JavaScript
-
-CSS Framework/Library/Pre-processors
-Bootstrap
-
-JS Framework/Library
-  
-
-Database/State
-MongoDB, MySQL
-
-Backend
-NodeJs, Express.js
-
-Webhosting
-Netlify, Digital Ocean, Render
-
-Package Manager
-Npm
-
-Version Control
-Git, GitHub
-
 ### Find me on the web :earth_americas::
 - Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase: 
 
