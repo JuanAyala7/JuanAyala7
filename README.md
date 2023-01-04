@@ -2,7 +2,7 @@
 
 You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
 
-Challenging myself is something I enjoy. Software Development will be a challenge that I'll be using to aid others with their branding, functionality, and ability to grow as a company.
+Challenging myself is something I enjoy. Apart of that is Software Development, which I'll be using to aid others with their branding, functionality, and ability to grow as a company.
 
 I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and high tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.
 
