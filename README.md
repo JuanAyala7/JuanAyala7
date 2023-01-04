@@ -19,7 +19,7 @@ CSS Framework/Library/Pre-processors
 Bootstrap
 
 JS Framework/Library
-jQuery
+  
 
 Database/State
 MongoDB, MySQL
