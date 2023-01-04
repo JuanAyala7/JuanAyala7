@@ -6,7 +6,7 @@ Challenging myself is something I enjoy. Apart of that is Software Development, 
 
 I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and high tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.
 
-## Find me on the web :earth_americas::
+# Find me on the web :earth_americas::
 - Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase: 
 
 <!--
