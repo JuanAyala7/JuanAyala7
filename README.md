@@ -1,53 +1,27 @@
-# Hello there! I'm Juan!👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Ayala!
 
-You are witnessing the development of a developer as I become educated on what is required for Full Stack Development.
+## Aspiring Developer   
 
-Challenging myself is something I enjoy. Apart of that is Software Development, which I'll be using to aid others with their branding, functionality, and ability to grow as a company. I intend to make daily contributions to my GitHub profile to practice consistency in learning this new skill along with never stop stopping!
+You are witnessing the development of a developer as I become educated on Full Stack Development. 
 
-I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and high tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.
+I'll be using the skill of Software Development to aid others with their branding, functionality, and ability to grow as a company. I intend to make daily contributions to my GitHub profile to practice consistency. 
 
-## Projects I'm currently working on 🔨:
-<p align="center"> workng on this section </p>
+I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.  
 
-## Tech & Tools Preference 💻
-<b>Languages</b>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<br>
-<b>CSS Framework/Library/Pre-processors</b>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<br>
-<b>JS Framework/Library</b>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<br>
-<b>Database/State</b>
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<br>
-<b>Backend</b>
-<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=FFFFFF">
-<br>
-<b>Web Hosting</b>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-<br>
-<b>Package Manager</b>
-<img src="https://img.shields.io/badge/Npm-CC3534?style=flat&logo=npm&logoColor=FFFFFF">
+* 🌍  I'm based in Oklahoma City, OK 
+* 🧠  I'm learning learning Web Authentication 
+* 🤝  I'm open to collaborating on any project that will be challenging but helpful for users 
+* ⚡  Fun Fact: I love writing and boxing!
 
+### Skills  
 
-### Find me on the web :earth_americas::
-- Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase:
-- [Shoot me an email! :mailbox:](mailto:contactayala7@gmail.com) 
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p> 
 
-<!--
-**JuanAyala7/JuanAyala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials  
+<p align="left"> <a href="https://www.github.com/JuanAyala7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Juan-ayala-036a96249" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/JuanAyala7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanAyala7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
