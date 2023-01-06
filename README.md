@@ -11,7 +11,9 @@ I have 4 years of honorable military service in the U.S. Air Force as a airborne
 ## I'm currently working on:
 
 ## Tech & Tools Preference 💻
-:jQuery:
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 
 ### Find me on the web :earth_americas::
 - Building my connections and sharing any updates on <a href="https://www.linkedin.com/in/juan-ayala-036a96249/">LinkedIn</a> :briefcase: 
