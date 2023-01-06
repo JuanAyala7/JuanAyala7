@@ -8,9 +8,8 @@ I'll be using the skill of Software Development to aid others with their brandin
 
 I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.  
 
-* 🌍  I'm based in Oklahoma City, OK 
-* 🧠  I'm learning learning Web Authentication 
-* 🤝  I'm open to collaborating on any project that will be challenging but helpful for users 
+* 🧠  I'm currently learning Web Authentication.
+* 🤝  I'm open to collaborating on any project that will be challenging but helpful for users around the world. 
 * ⚡  Fun Fact: I love writing and boxing!
 
 ### Skills  
