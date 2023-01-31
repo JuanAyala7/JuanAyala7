@@ -8,7 +8,7 @@ I'll be using the skill of Software Development to aid others with their brandin
 
 I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.  
 
-* 🧠  I'm currently learning about React.jsx Components.
+* 🧠  I'm currently learning about React.jsx Components through codesandbox.io
 * 🤝  Open to collaborating on any project that will be challenging and thought-provoking for users world-wide. 
 * ⚡  Fun Fact: I love writing and boxing!
 
