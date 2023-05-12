@@ -4,9 +4,9 @@
 
 You are witnessing the development of a developer as I become educated on Full Stack Development. 
 
-I'll be using the skill of Software Development to aid others with their branding, functionality, and ability to grow as a company. I intend to make daily contributions to my GitHub profile to practice consistency and to never give up. 
+I'll be using the skill of Software Development to aid others with their branding, functionality, and ability to scale as a company.
 
-I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I have learned to thrive in high stress and tempo environments, which allows me to continually adapt, overcome, and develop the solution the client is looking for.  
+I have 4 years of honorable military service in the U.S. Air Force as a airborne mission systems operator, datalink operator, and safety representative. As a military veteran, I learned to thrive in high stress and tempo environments, which allows me to continually adapt, overcome, and develop solutions endlessly.  
 
 * 🧠  I'm currently learning about React.jsx Properties through codesandbox.io
 * 🤝  Open to collaborating on any project that will be challenging and thought-provoking for users world-wide. 
